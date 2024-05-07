@@ -11,7 +11,6 @@ Clone the repository and install the required packages:
 ```bash
 git clone https://github.com/Ddne59/Food-101.git
 cd Food-101
-pip install -r requirements.txt
 ```
 
 ## Usage
