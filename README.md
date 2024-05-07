@@ -22,11 +22,11 @@ jupyter notebook main.ipynb
 Follow the instructions within the notebook for detailed steps.
 
 ## Results
-![](https://github.com/Ddne59/Food-101/blob/main/assets/93075049/b2ed0b07-902a-4eee-a974-a4b59620539b.png)
-Model Accuracy
+![accuracy.png](https://github.com/Ddne59/Food-101/blob/main/accuracy.PNG)
 
-![](https://github.com/Ddne59/Food-101/blob/main/assets/93075049/69f10f0b-1a41-4dee-9feb-8cce395c2cd2.png)
-Model Loss
+
+![loss.png](https://github.com/Ddne59/Food-101/blob/main/loss.PNG)
+
 
 The model achieved 80% accuracy on the test dataset, with accuracy being the primary metric due to the project's focus on image classification.
 
